@@ -1,3 +1,11 @@
-# hugging-face-demo2
-
-[![Python application test with Github Actions](https://github.com/MichaelDan/hugging-face-demo2/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/MichaelDan/hugging-face-demo2/actions/workflows/testing-ci.yml)
+---
+title: Demo
+emoji: 🌖
+colorFrom: purple
+colorTo: purple
+sdk: gradio
+sdk_version: 3.0.6
+app_file: app.py
+pinned: false
+license: cc
+---
